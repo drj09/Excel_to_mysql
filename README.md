@@ -1,2 +1,7 @@
 # Excel_to_mysql
- pushing data from simple excel sheet to mysql database 
+    pyton script to data from simple excel sheet to mysql database.
+
+    file_path,database_name,table_name is required
+
+     
+    
