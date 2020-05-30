@@ -3,5 +3,9 @@
 
     file_path,database_name,table_name is required
 
-     
+    Database Details:
+        hostname:localhost
+        user=root
+        password=''
+        
     
