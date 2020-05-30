@@ -1,11 +1,16 @@
 # Excel_to_mysql
-    pyton script to data from simple excel sheet to mysql database.
+    Pyton script to data from simple excel sheet to mysql database.
 
-    file_path,database_name,table_name is required
+    LIBRARIES USED:
+        Mysql  
+        openpyxl
 
-    Database Details:
-        hostname:localhost
-        user=root
-        password=''
-        
+    INPUTS:
+        excel sheet path
+        database name
+        table name    
     
+    OUTPUT:
+        -checking for database and table to exist
+        -creating database and table if not exist
+        -inserting data into table
